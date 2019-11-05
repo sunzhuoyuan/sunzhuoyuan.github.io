@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "这是徐代龙进行的第二篇文章"
+title:  "md文件的编写"
 categories: SnakeSon
 tags:  hexo JavaScript
 author: SnakeSon
